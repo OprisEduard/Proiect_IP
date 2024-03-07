@@ -1,8 +1,8 @@
 # Proiect_IP
 
-MODUL 1: site web
+MODUL 1: site we
 
--Dragana
+-Dragana	
 -Neacsu
 
 

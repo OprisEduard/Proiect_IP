@@ -1,4 +1,8 @@
 # Proiect_IP
+<p align="center">
+TEMA TEHNICĂ<br>
+SISTEM PURTABIL DE SUPRAVEGHERE A STĂRII DE SĂNĂTAT  
+</p>
 
 MODUL 1: site web  
 -Dragana  
